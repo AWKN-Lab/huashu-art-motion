@@ -18,6 +18,23 @@ npx skills add alchaincyf/huashu-art-motion
 
 ## 动画样片
 
+### 核心案例：花叔闯进超级玛丽
+
+把自己做成像素主角，跑完一整关。砖块、水管、关卡运动与转场用代码完成，人物用生成帧合成；下面直接截自65秒成片。
+
+<img src="assets/showcase/mario-claude.gif" alt="花叔顶砖触发会员选择，光标从OpenAI移到Claude，获得星芒道具后变大" width="100%" />
+
+连吃蘑菇都得先选会员：OpenAI，还是Claude？选完Claude，星芒道具落下来，花叔变大。
+
+<table><tr>
+<td width="50%"><img src="assets/showcase/mario-combo.gif" alt="花叔踩下像素敌人，踢出缩成球的敌人撞飞前方角色，接着顶碎砖块" width="100%" /><br/>连踩带踢 · 像素Sam与Dario客串敌人</td>
+<td width="50%"><img src="assets/showcase/mario-pipe.gif" alt="花叔钻进水管，镜头穿过绿色隧道进入金币密室，再用扫描线甩镜返回地面" width="100%" /><br/>钻进水管 · 金币密室与扫描线甩镜</td>
+</tr></table>
+
+这组展示的是成片效果；GIF无声、循环播放。[片段时间点与导出参数](assets/showcase/mario-clips.md)。
+
+### 花叔穿越名画
+
 画里真的会动。下面三段来自同一支穿越短片，场景用代码画，角色用生成帧合成。
 
 <img src="assets/showcase/monet.gif" alt="莫奈日本桥：打水漂，水面泛起涟漪" width="100%" />
